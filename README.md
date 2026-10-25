@@ -1,6 +1,6 @@
 # Data Science & AI Projects
 
-This repository contains academic and personal projects in **Data Science and Artificial Intelligence**, covering a range of topics and techniques.
+This repository contains academic and personal projects in Data Science and Artificial Intelligence, covering a range of topics and techniques.
 
 ## Areas Covered
 - **Machine Learning (ML):** Data analysis, predictive modeling, and classification.
